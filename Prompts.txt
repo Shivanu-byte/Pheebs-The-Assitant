@@ -1,0 +1,4 @@
+Phases are defined in readme.md file of our pheebs the assistant.
+Lets start working in Phases
+
+Execute the plan for phase 1

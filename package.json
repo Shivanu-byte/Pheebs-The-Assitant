@@ -1,0 +1,8 @@
+{
+  "name": "pheebs-assistant",
+  "private": true,
+  "scripts": {
+    "dev": "npm run dev --prefix ui",
+    "build": "npm run build --prefix ui"
+  }
+}
